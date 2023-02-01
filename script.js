@@ -47,7 +47,7 @@ $(document).ready(function() {
       "machine learning enthusiast",
       "Competitive Programmer"
     ],
-    typeSpeed: 100,
+    typeSpeed: 200,
     backSpeed: 60,
     loop: true
   });
